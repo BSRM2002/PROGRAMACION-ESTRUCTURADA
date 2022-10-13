@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1661226267 source:d:\prospercity\programacion estructurada\librerias\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operaciones.h"
+
+1661226934 d:\prospercity\programacion estructurada\librerias\operaciones.h
+

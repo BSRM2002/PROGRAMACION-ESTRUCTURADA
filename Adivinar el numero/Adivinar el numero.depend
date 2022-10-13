@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1659812776 source:d:\prospercity\programacion estructurada\adivinar el numero\main.c
+	<stdio.h>
+	<stdlib.h>
+

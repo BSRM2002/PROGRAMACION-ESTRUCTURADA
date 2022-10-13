@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1660660178 source:d:\prospercity\programacion estructurada\potencia de un numero\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

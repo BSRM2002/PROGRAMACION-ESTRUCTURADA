@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1659676139 source:d:\prospercity\programacion estructurada\operadores aritmeticos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

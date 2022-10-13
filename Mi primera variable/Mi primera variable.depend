@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1659407388 source:d:\prospercity\programacion estructurada\mi primera variable\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
